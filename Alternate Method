@@ -1,0 +1,17 @@
+[samourai]
+text               = fefdff
+subtext            = fefdff
+sidebar-text       = 191414
+main               = 0c1014
+sidebar            = 501419
+player             = 0c1014
+card               = 000000
+shadow             = 3a2645
+selected-row       = 909090
+button             = 461217
+button-active      = 461217
+button-disabled    = 535353
+tab-active         = 461217
+notification       = 461217
+notification-error = e22134
+misc               = BFBFBF
